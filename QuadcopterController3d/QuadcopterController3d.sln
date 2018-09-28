@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "QuadcopterController3d.Plugins", "QuadcopterController3d.Plugins.csproj", "{616A42E7-DFE7-672E-603F-50C65A5CA37C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "QuadcopterController3d", "QuadcopterController3d.csproj", "{98339337-6A83-985C-860D-9253835506AC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "QuadcopterController3d.Editor.Plugins", "QuadcopterController3d.Editor.Plugins.csproj", "{7F039775-356D-5262-43BA-EE1C3282EBF2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{616A42E7-DFE7-672E-603F-50C65A5CA37C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{616A42E7-DFE7-672E-603F-50C65A5CA37C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{616A42E7-DFE7-672E-603F-50C65A5CA37C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{616A42E7-DFE7-672E-603F-50C65A5CA37C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{98339337-6A83-985C-860D-9253835506AC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{98339337-6A83-985C-860D-9253835506AC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{98339337-6A83-985C-860D-9253835506AC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{98339337-6A83-985C-860D-9253835506AC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7F039775-356D-5262-43BA-EE1C3282EBF2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7F039775-356D-5262-43BA-EE1C3282EBF2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7F039775-356D-5262-43BA-EE1C3282EBF2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7F039775-356D-5262-43BA-EE1C3282EBF2}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
